@@ -1,4 +1,4 @@
-Ayroblu a collection of projects
-================================
+Projects
+========
 
 - [i18n playground](/i18n-playground)
