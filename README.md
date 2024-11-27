@@ -8,6 +8,7 @@ Projects
 - [animations-demo-qwik](/animations-demo-qwik)
 - [source-map-explorer](/source-map-explorer)
 - [md-notes-app](/md-notes-app)
+- [bazel-dot-analyzer](/bazel-dot-analyzer)
 - [webpack-dependency-viewer](/webpack-dependency-viewer)
 - [md-runner](/md-runner)
 - [collab-notes](/collab-notes)
